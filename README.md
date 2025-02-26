@@ -1,1 +1,3 @@
-# SQL-PROJECTS
+This repository contains a collection of SQL projects focused on data cleaning, exploratory data analysis (EDA), data transformation, data security & user management, triggers & automation, data export and import, indexing and performance optimization etc. Each project demonstrates my ability to write optimized SQL queries, manipulate large datasets, perform complex joins, advanced mysql concepts like subquery, cte, window function etc.
+
+This portfolio repository demonstrates my proficiency in SQL for data analysis, database management, and business intelligence, making me a strong candidate for Data Analyst, Business Analyst, any Data Analyst role and SQL Developer roles. My projects reflect my ability to solve real-world problems, optimize database performance, and generate meaningful insights.
