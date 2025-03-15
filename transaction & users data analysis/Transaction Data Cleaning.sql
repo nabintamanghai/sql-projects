@@ -44,14 +44,6 @@ modify column user_id int not null;
 ALTER TABLE transactions_staging
 ADD CONSTRAINT foreign_key_user_id FOREIGN KEY (user_id) REFERENCES users_demo(user_id);
 
--- checking foreign key constraints
-SELECT CONSTRAINT_NAME, TABLE_NAME, COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME 
-FROM information_schema.KEY_COLUMN_USAGE 
-WHERE TABLE_NAME = 'transactions_staging' 
-AND CONSTRAINT_SCHEMA = 'portfolio_projects' 
-AND REFERENCED_TABLE_NAME IS NOT NULL;
-
-
 -- ------------------------------------------------------------------------------------------------------------------
 -- identifying duplicates values and deleting duplicates values if possible
 -- ------------------------------------------------------------------------------------------------------------------
