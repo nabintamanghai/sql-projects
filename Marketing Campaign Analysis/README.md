@@ -97,7 +97,7 @@ use `NULLIF()` in SQL if there's a null value in the column .
   LinkedIn gets the most clicks, so we should use it to share useful info and bring more people closer to buying.
 
 - Keep checking how ads are doing <br>
-  We should always watch how each platform and place is doing, so we can spend money where it works best.
+  We should always watch how each platform and region is doing, so we can spend money where it works best.
 
 ---
 
