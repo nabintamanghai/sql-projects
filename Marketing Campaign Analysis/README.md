@@ -73,7 +73,8 @@ use `NULLIF()` in SQL if there's a null value in the column .
 - Ⓜ️ Instagram and Facebook also performed well, with ROIs of 197.37% and 190.97%, respectively.
 - 🌍 Europe had lower conversion rates & may need optimization. However, it delivered the highest ROI 201.23%, meaning it generated more than double the revenue relative to its cost.
 - 💰 On average, every $1 spent returned $2.93, meaning we nearly tripled our investment with a 193.08% ROI across all campaigns.
-- 〽 Fluctuating CTR (1.07% to 1.03% year-over-year) with no sustained growth suggests volatile, not consistently improving, user engagement. Investigate external factors like campaign changes, seasonality and focus on strategies to stabilize and improve CTR consistently.
+- 〽 Fluctuating CTR (1.07% to 1.03% year-over-year) with no sustained growth suggests volatile, not consistently improving, user engagement. Investigate external factors like campaign changes, 
+     seasonality and focus on strategies to stabilize and improve CTR consistently.
 
 ---
 
