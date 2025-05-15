@@ -69,14 +69,35 @@ use `NULLIF()` in SQL if there's a null value in the column .
 
 ## 💡 Key Insights
 
-- 𝕏 Twitter delivered the highest ROI (199.25%), indicating it’s the most efficient channel for return on investment.
-- Ⓜ️ Instagram and Facebook also performed well, with ROIs of 197.37% and 190.97%, respectively.
-- 🌍 Europe had lower conversion rates & may need optimization. However, it delivered the highest ROI 201.23%, meaning it generated more than double the revenue relative to its cost.
-- ⓕ Facebook shows the best Conversion Rate 10% while maintaining competitive ROI.
-- 💰 On average, every $1 spent returned $2.93, meaning we nearly tripled our investment with a 193.08% ROI across all campaigns.
-- 〽 Fluctuating CTR (1.07% to 1.03% year-over-year) with no sustained growth suggests volatile, not consistently improving, user engagement. Investigate external factors like campaign changes, 
-     seasonality and focus on strategies to stabilize and improve CTR consistently.
-- 💼 LinkedIn has the highest Click-Through Rate (CTR) of 3.17%.
+- Twitter delivered the highest ROI (199.25%), indicating it’s the most efficient channel for return on investment. <br>
+- Instagram and Facebook also performed well, with ROIs of 197.37% and 190.97%, respectively. <br>
+- Europe had lower conversion rates & may need optimization. However, it delivered the highest ROI 201.23%, meaning it generated more than double the revenue relative to its cost. <br>
+- Facebook shows the best Conversion Rate 10% while maintaining competitive ROI. <br>
+- On average, every $1 spent returned $2.93, meaning we nearly tripled our investment with a 193.08% ROI across all campaigns. <br>
+- Fluctuating CTR (1.07% to 1.03% year-over-year) with no sustained growth suggests volatile, not consistently improving, user engagement. Investigate external factors like campaign changes, 
+     seasonality and focus on strategies to stabilize and improve CTR consistently. <br>
+- LinkedIn has the highest Click-Through Rate (CTR) of 3.17%. <br>
+
+---
+
+## 📝 Recommendations
+- Put more money into Twitter ads <br>
+  Twitter gave us the best return for every dollar spent. Spending more here will likely make us more profit.
+
+- Keep using Instagram and Facebook ads and make them better <br>
+  These platforms also gave good results, especially Facebook which helped more people buy. We can try making ads more attractive to get even better results.
+
+- Improve ads in Europe <br>
+  Europe made good money, but fewer people bought. We should make ads that better fit European customers to get more sales.
+
+- Fix the inconsistent click rates <br>
+  People’s clicking on ads is going up and down, which is not good. We should test different ads and see what works best so more people click regularly.
+
+- Use LinkedIn to catch interested people <br>
+  LinkedIn gets the most clicks, so we should use it to share useful info and bring more people closer to buying.
+
+- Keep checking how ads are doing <br>
+  We should always watch how each platform and place is doing, so we can spend money where it works best.
 
 ---
 
